@@ -1,4 +1,4 @@
-package algorithms;
+package pl.koderka.algorithms;
 
 public class euclideanAlgorithm {
 
