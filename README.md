@@ -4,6 +4,21 @@ Algorithms
 
 Euclidean algorithm: counts the greatest common divisor (GDC) for two positive integers. Example: GDC for integers 496 and 186 is 62.
 
+Arrays
+
+Main1: creates an array with 20 randomly generated integers from 0 to 100 and returns a minimal value of the array.
+
+Main2: creates an array with 10 integers and fills it with number 2.
+
+Main3: creates an array with 10 integers, reverses its order and returns an array with reversed order.
+
+Main4: sorts a given array of integers.
+
+Main5: prints length of arrays in the 2-dimensional array as well as all its elements (each array in a separate row).
+
+Main6: prints a sum of all elements in the array.
+
+Main7: prints a trace of a matrix (sum of elements placed diagonally).
 
 Methods
 
